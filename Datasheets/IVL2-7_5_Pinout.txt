@@ -1,0 +1,24 @@
+
+IVL2-7/5 Pinout:
+
+Pin | Function
+1, 23   | Cathode
+3       | Anode M
+2, 22   | Grid for 5th digit
+14      | Anode a
+13      | Anode b
+12      | Anode c
+4       | Anode d
+5       | Anode e
+7       | Anode f
+10      | Anode g
+11, 19  | Grid for 2nd digit
+8, 20   | Grid for 3rd digit
+15, 18  | Grid for 1st digit
+9       | Anode L
+6, 21   | Grid for 4th digit
+16, 17  | Cathode
+
+Voltage:
+- Filament voltage: 2.4V
+- Impulse voltage: 24V
