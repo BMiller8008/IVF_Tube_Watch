@@ -1,0 +1,39 @@
+--- Page 1 ---
+**Vacuum Fluorescent Display (VFD) IVL2-7/5**
+Label:
+The IVL2-7/5 vacuum fluorescent display is a multi-segment symbol indicator with a flat glass design. It uses a triode system with a directly heated cathode, making it suitable for time-precision devices, such as automotive clocks. It supports multiplexed operation.
+
+--- Page 2 ---
+**Electrode Connection Diagram**
+[Diagram description for electrode pin numbers follows...]
+
+--- Page 3 ---
+**Dimensions and Specifications**
+| Specification         | Value         |
+|-----------------------|---------------|
+| Character Height      | 10.25 ± 0.05 mm |
+| Character Width       | 5.8 ± 0.05 mm |
+| Voltage (Filament)    | 2.4V          |
+| Current (Filament)    | 58mA          |
+| DC Voltage (Grid)     | 24V           |
+| DC Voltage (Anode)    | 24V           |
+
+--- Page 4 ---
+**Pinout Description**
+1, 23: Cathode
+2: K-point (reference point)
+3, 22: Grid for 5th digit
+[Additional descriptions for pins...]
+
+--- Page 5 ---
+**Table of Electrical and Optical Parameters**
+| Parameter                | Nominal  | Minimum | Maximum |
+|--------------------------|----------|---------|---------|
+| Filament Current (mA)    | 60       | 52      | 70      |
+| Pulse Current (Anode)    | 1.5      | 1       | 2       |
+| Pulse Current (Grid)     | 1        | 1       | 2       |
+| Brightness (kcd/m^2)     | 1000     | 350     | 1500    |
+
+--- Page 6 ---
+Additional diagrams and schematics for layout and pin arrangement.
+
